@@ -1,0 +1,8 @@
+Django
+redis
+django-redis
+gunicorn
+psycopg2
+uwsgi
+mysqlclient
+cassandra-driver
